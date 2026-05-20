@@ -51,7 +51,7 @@ level: 1
 
 # Dankbar im Heute
 
-<img src="./images/life-overview.png" class="mx-auto max-h-90" />
+<img src="/images/life-overview.png" class="mx-auto max-h-90" />
 
 ::right::
 <div>
@@ -64,7 +64,7 @@ level: 1
 </div>
 <div class="h-full flex items-center">
 
-<img src="./images/tagbogen.avif" />
+<img src="/images/tagbogen.avif" />
 </div>
 
 ---
