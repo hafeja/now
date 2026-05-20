@@ -1,0 +1,42 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+.output/
+
+# Slidev artifacts (also covered in jetzt/.gitignore)
+.vite-inspect
+.remote-assets
+components.d.ts
+
+# Slidev export outputs
+*.pdf
+*.pptx
+*.png
+
+# Environment & secrets — never commit these
+.env
+.env.*
+!.env.example
+*.local
+
+# Logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor / IDE
+.vscode/settings.json
+.vscode/*.code-workspace
+.idea/
+*.suo
+*.user
+*.swp
+*.swo
+*~
