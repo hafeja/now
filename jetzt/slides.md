@@ -51,7 +51,7 @@ level: 1
 
 # Dankbar im Heute
 
-<img src="/images/life-overview.png" class="mx-auto max-h-90" />
+<img src="./images/life-overview.png" class="mx-auto max-h-90" />
 
 ::right::
 <div>
@@ -64,7 +64,7 @@ level: 1
 </div>
 <div class="h-full flex items-center">
 
-<img src="/images/tagbogen.avif" />
+<img src="./images/tagbogen.avif" />
 </div>
 
 ---
@@ -81,10 +81,11 @@ Versetzt euch in die Lage älterer Gruppenmitglieder. Nennt den jeweils älteren
 ---
 level: 1
 layout: cover
-background: "./images/zielscheibe.jpg"
+background: ./images/zielscheibe.jpg
 ---
 
 # Ziel
+
 
 <Tooltip text="Denn welche er zuvorerkannt hat, die hat er auch zuvorbestimmt, dem Bild seines Sohnes gleichförmig zu sein, damit er der Erstgeborene sei unter vielen Brüdern" href="https://www.csv-bibel.de/bibel/roemer-8#v29">Römer 8,29</Tooltip>
 
@@ -98,7 +99,6 @@ transition: slide-up
 
 1. Bei welchen Ziel-Aspekten fällt es dir besonders schwer, dich mit zu identifizieren.
 1. Warum?
-
 
 
 ---
@@ -158,6 +158,41 @@ level: 1
 
 # Warum - Selbstreflexion
 
+```mermaid {scale: 0.7}
+ishikawa-beta
+    Kindergarten
+    Experten überlassen
+        Biblisches Wertesystem
+        Gewissenhaft
+    Auffallen wollen
+        Geltungsbedürfnis
+            Selbstwertgefühl
+    mehr eigene Zeit
+        Job
+            finanzielle Gründe
+                alleinerziehend
+                Grundbedürfnisse
+                    lukrativ trotz Betreuungsaufwand
+                selbstgewählter Lebensstandard
+        Hobbies
+        christlicher Dienst
+          vom Herrn
+          eigenwillig selbst ergriffen
+    Entlastung
+      unnötige weitere Belastungen
+      andere Unterstützer
+    Entwicklung des Kindes
+        Motorik
+        Umgang mit anderen Kindern
+            Wunsch nach vielen Freunden fürs Kind
+        Betreuungsverhältnis
+    Gesellschaftlicher Druck
+        von Gläubigen
+        von Ungläubigen
+      Mermaid
+```
+
+
 ---
 level: 2
 transition: slide-up
@@ -199,50 +234,6 @@ https://pixabay.com/photos/accuracy-dart-goal-direct-hit-454196/
 https://waitbutwhy.com/2014/05/life-weeks.html
 
 ---
-level: 1
----
-
-# Components
-
-<div grid="~ cols-2 gap-4">
-<div>
-
-You can use Vue components directly inside your slides.
-
-We have provided a few built-in components like `<Tweet/>`, `<BlueSky/>`, and `<Youtube/>` that you can use directly. And adding your custom components is also super easy.
-
-```html
-<Counter :count="10" />
-```
-
-<!-- ./components/Counter.vue -->
-<Counter :count="10" m="t-4" />
-
-Check out [the guides](https://sli.dev/builtin/components.html) for more.
-
-</div>
-<div>
-
-```html
-<Tweet id="1390115482657726468" />
-```
-
-<Tweet id="1390115482657726468" scale="0.65" />
-
-</div>
-</div>
-
-<!--
-Presenter note with **bold**, *italic*, and ~~striked~~ text.
-
-Also, HTML elements are valid:
-<div class="flex w-full">
-  <span style="flex-grow: 1;">Left content</span>
-  <span>Right content</span>
-</div>
--->
-
----
 
 # Clicks Animations
 
@@ -274,43 +265,6 @@ also allows you to add
 
 
 ---
-
-# Diagrams
-
-You can create diagrams / graphs from textual descriptions, directly in your Markdown.
-
-<div class="grid grid-cols-2 gap-8 pt-4">
-
-```mermaid {theme: 'neutral', scale: 1}
-graph TD
-B[Text] --> C{Decision}
-C -->|One| D[Result 1]
-C -->|Two| E[Result 2]
-```
-
-```mermaid {scale: 0.4}
-mindmap
-  root((mindmap))
-    Origins
-      Long history
-      ::icon(fa fa-book)
-      Popularisation
-        British popular psychology author Tony Buzan
-    Research
-      On effectiveness<br/>and features
-      On Automatic creation
-        Uses
-            Creative techniques
-            Strategic planning
-            Argument mapping
-    Tools
-      Pen and paper
-      Mermaid
-```
-</div>
-
-
----
 foo: bar
 dragPos:
   square: 691,32,167,_,-16
@@ -329,23 +283,6 @@ Double-click on the draggable elements to edit their positions.
 ```
 
 <br>
-
-###### Component Usage
-
-```md
-<v-drag text-3xl>
-  <div class="i-carbon:arrow-up" />
-  Use the `v-drag` component to have a draggable container!
-</v-drag>
-```
-
-<v-drag pos="535,221,261,_,-15">
-  <div text-center text-3xl border border-main rounded>
-    Double-click me!
-  </div>
-</v-drag>
-
-<img v-drag="'square'" src="https://sli.dev/logo.png">
 
 ###### Draggable Arrow
 
