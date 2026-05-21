@@ -34,7 +34,7 @@ jobs:
         working-directory: jetzt
 
       - name: Build
-        run: DEBUG=vite:* pnpm build -- --debug --base "/${{ github.event.repository.name }}/"
+        run: pnpm build --base /${{github.event.repository.name}}/
         working-directory: jetzt
 
       - name: Setup Pages

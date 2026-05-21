@@ -51,9 +51,11 @@ backgroundSize: 90%
 level: 1
 ---
 
-# Dankbar im HEUTE
+# Dankbar
 
+## HEUTE
 
+<br>
 <Tooltip
   text="Und der Friede des Christus regiere in euren Herzen, zu dem ihr auch berufen worden seid in einem Leib; und seid dankbar. (Kol 3,15)"
   href="https://www.csv-bibel.de/bibel/kolosser-3#v15"
@@ -62,13 +64,26 @@ level: 1
 </Tooltip>
 
 ---
+layout: image-left
+image: images/ravensbrück.jpg
+---
+
+# Dankbar
+
+## Allgmein
+
+---
 layout: image-right
 image: images/tagbogen.avif
 backgroundSize: 100%
 level: 2
 ---
 
-# 
+# Tagverlauf
+
+- Teenie
+- 20er
+- Eltern junger Kinder
 
 
 ---
