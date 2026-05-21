@@ -109,7 +109,7 @@ transition: slide-up
 ---
 level: 1
 layout: image
-image: /public/images/zielscheibe.jpg
+image: /images/zielscheibe.jpg
 ---
 
 # Ziel
@@ -161,6 +161,8 @@ class: text-center
 ---
 layout: two-cols-header
 ---
+
+# header 
 
 This spans both
 
