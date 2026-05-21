@@ -91,7 +91,7 @@ level: 2
 transition: slide-up
 ---
 
-# 🗯️ 1
+# 🗯️ Austausch # 1
 
 Versetzt euch in die Lage älterer Gruppenmitglieder. Nennt den jeweils älteren Dinge, wofür sie eurer Vorstellung nach besonders dankbar sein dürfen.
 
@@ -114,10 +114,16 @@ level: 2
 transition: slide-up
 ---
 
-# 🗯️ 2
+# 🗯️ Austausch # 2
 
-1. Bei welchen Ziel-Aspekten fällt es dir besonders schwer, dich mit zu identifizieren.
-1. Warum?
+<br>
+<br>
+
+# 1. Bei welchen Ziel-Aspekten fällt es dir besonders schwer, dich mit zu identifizieren.
+
+<br>
+
+# 2. Warum?
 
 
 ---
@@ -167,13 +173,17 @@ This shows on the right
 level: 2
 class: text-center
 layout: image
-image: public/images/zielscheibe.jpg
+image: images/zielscheibe.jpg
 # backgroundSize: contain
 backgroundSize: 50%
 # background: what's app status screenshot durchgestrichen
 ---
 
 # Was nicht entscheidend ist
+
+## dfdfd
+
+normaler text
 
 ---
 level: 1
