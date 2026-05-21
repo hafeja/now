@@ -51,7 +51,7 @@ level: 1
 
 # Dankbar im Heute
 
-<img src="images/life-overview.png" class="mx-auto max-h-90" />
+<img src="./public/images/life-overview.png" class="mx-auto max-h-90" />
 
 ::right::
 <div>
@@ -64,7 +64,7 @@ level: 1
 </div>
 <div class="h-full flex items-center">
 
-<img src="./images/tagbogen.avif" />
+<img src="./public/images/tagbogen.avif" />
 </div>
 
 ---
@@ -81,7 +81,7 @@ Versetzt euch in die Lage älterer Gruppenmitglieder. Nennt den jeweils älteren
 ---
 level: 1
 layout: cover
-background: ./images/zielscheibe.jpg
+background: ./public/images/zielscheibe.jpg
 ---
 
 # Ziel
