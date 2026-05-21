@@ -48,7 +48,7 @@ Ganz im Hier und Jetzt.
 ---
 layout: image-right
 image: /images/life-overview.png
-backgroundSize: 90%
+backgroundSize: 95%
 ---
 
 # Dankbar
@@ -59,10 +59,8 @@ backgroundSize: 90%
 ## HEUTE
 
 <br>
-
-> Seid dankbar.
-
 <br>
+
 <Tooltip
   text="Und der Friede des Christus regiere in euren Herzen, zu dem ihr auch berufen worden seid in einem Leib; und seid dankbar. (Kol 3,15)"
   href="https://www.csv-bibel.de/bibel/kolosser-3#v15"
@@ -73,6 +71,7 @@ backgroundSize: 90%
 ---
 layout: image-left
 image: /images/ravensbrueck.jpg
+level: 2
 ---
 
 # Dankbar
@@ -90,6 +89,7 @@ image: /images/ravensbrueck.jpg
 layout: image-right
 image: /images/tagbogen.avif
 backgroundSize: 99%
+level: 2
 ---
 
 # Tagverlauf
@@ -109,8 +109,9 @@ transition: slide-up
 <hr>
 <br>
 
-# Versetzt euch in die Lage älterer Gruppenmitglieder. Nennt den jeweils älteren Dinge, wofür sie eurer Vorstellung nach besonders dankbar sein dürfen.
+# Versetzt euch in die Lage älterer Gruppenmitglieder. Nennt den jeweils Älteren diejenigen Dinge, wofür sie eurer Vorstellung nach besonders dankbar sein dürfen.
 
+<br>
 <br>
 
 # 💡 Tipp: Zuhören, nicht widersprechen.
