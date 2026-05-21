@@ -273,7 +273,7 @@ image: /images/fokus.jpg
 class: text-center bg-black text-white
 ---
 
-# Stille Zeit
+# Prioritäten | Stille Zeit
 
 <hr>
 <br>
@@ -295,10 +295,57 @@ Vorbilder: <Tooltip text="Er aber zog sich zurück und war in den Wüsteneien un
 ---
 level: 2
 class: text-center
-# background: Kinderzimmer, Büro auf einem Bild
+layout: image
+image: /images/kasse-homeoffice-zimmer.jpeg
 ---
 
-# Evangelisieren
+<style>
+  p, h1, a {
+    color: yellow;
+  }
+</style>
+
+# Prioritäten | Evangelisieren
+
+<hr>
+<br>
+<br>
+
+Verantwortung: <Tooltip text="Da sprachen sie einer zum anderen: Wir tun nicht recht. Dieser Tag ist ein Tag guter Botschaft; schweigen wir aber und warten, bis der Morgen hell wird, so wird uns Schuld treffen. Und nun kommt und lasst uns hineingehen und es im Haus des Königs berichten." href="https://www.csv-bibel.de/bibel/2-koenige-7#v9">2. Kön 7,9</Tooltip>
+
+<br>
+
+Jederzeit: <Tooltip text="sondern heiligt Christus, den Herrn, in euren Herzen. Seid jederzeit bereit zur Verantwortung gegen jeden, der Rechenschaft von euch fordert über die Hoffnung, die in euch ist" href="https://www.csv-bibel.de/bibel/1-petrus-3#v15">1. Pet 3,15</Tooltip>
+
+---
+
+# Prioritäten | Verschiedenes
+
+<hr>
+
+- Fürsorge & Hirtendienst 🐑: <Tooltip text="Und am anderen Tag legten wir in Sidon an. Und Julius behandelte Paulus wohlwollend und erlaubte ihm, zu den Freunden zu gehen, um ihrer Fürsorge teilhaftig zu werden." href="https://www.csv-bibel.de/bibel/apostelgeschichte-27#v3">Apg 27,3</Tooltip>
+- Gemeinschaft 🫂: <Tooltip text="Sie verharrten aber in der Lehre der Apostel und in der Gemeinschaft, im Brechen des Brotes und in den Gebeten." href="https://www.csv-bibel.de/bibel/apostelgeschichte-2#v42">Apg 2,42</Tooltip>
+- Erziehung & Vorbild: <Tooltip text="Und ihr Väter, reizt eure Kinder nicht zum Zorn, sondern zieht sie auf in der Zucht und Ermahnung des Herrn." href="https://www.csv-bibel.de/bibel/epheser-6#v4">Eph 6,4</Tooltip>
+und <Tooltip text="Seid zusammen meine Nachahmer, Brüder, und seht hin auf die, die so wandeln, wie ihr uns zum Vorbild habt." href="https://www.csv-bibel.de/bibel/philipper-3#v17">Phil 3,17</Tooltip>
+- <span v-mark.underline.red>Liebe ❤️‍🔥: </span><Tooltip text="Dies ist mein Gebot, dass ihr einander liebet, wie ich euch geliebt habe." href="https://www.csv-bibel.de/bibel/johannes-15#v12">Joh 15,12</Tooltip>
+und <Tooltip text="die Hoffnung aber beschämt nicht, denn die Liebe Gottes ist ausgegossen in unsere Herzen durch den Heiligen Geist, der uns gegeben worden ist." href="https://www.csv-bibel.de/bibel/roemer-5#v5">Röm 5,5</Tooltip>
+- Frieden 🕊️: <Tooltip text="Jagt dem Frieden nach mit allen und der Heiligkeit, ohne die niemand den Herrn schauen wird;" href="https://www.csv-bibel.de/bibel/hebraer-12#v14">Heb 12,14</Tooltip>
+
+---
+
+# ~~Prioritäten~~ | Verschiedenes
+
+<hr>
+
+Prediger: Das Christenleben ist <span v-mark.underline.blue>wichtiger als: </span>
+- Ansehen bei Menschen: <Tooltip text="Denn ich bin mir selbst nichts bewusst, aber dadurch bin ich nicht gerechtfertigt. Der mich aber beurteilt, ist der Herr." href="https://www.csv-bibel.de/bibel/1-korinther-4#v4">1. Kor 4,4</Tooltip>
+und <Tooltip text="Wenn mir jemand dient, so folge er mir nach; und wo ich bin, da wird auch mein Diener sein. Wenn jemand mir dient, so wird der Vater ihn ehren." href="https://www.csv-bibel.de/bibel/johannes-12#v26">Joh 12,26</Tooltip>
+- Materieller Besitz: <Tooltip text="Als sie ihn aber gekreuzigt hatten, verteilten sie seine Kleider unter sich, indem sie das Los warfen." href="https://www.csv-bibel.de/bibel/matthaeus-27#v36">Mt 27,35</Tooltip> und <Tooltip text="denn wir haben nichts in die Welt hereingebracht, so ist es offenbar, dass wir auch nichts hinausbringen können." href="https://www.csv-bibel.de/bibel/1-timotheus-6#v7">1. Tim 6,7</Tooltip>
+- Irdische Sicherheiten: <Tooltip text="Damit wir ihnen aber keinen Anstoß geben, geh an den See, wirf eine Angel aus und nimm den ersten Fisch, der heraufkommt, tu sein Maul auf, und du wirst einen Stater finden; den nimm und gib ihnen für mich und dich." href="https://www.csv-bibel.de/bibel/matthaeus-17#v27">Mt 17,27</Tooltip>
+- Genuss von Essen: <Tooltip text="Denn das Reich Gottes ist nicht Essen und Trinken, sondern Gerechtigkeit und Friede und Freude im Heiligen Geist." href="https://www.csv-bibel.de/bibel/roemer-14#v17">Röm 14,17</Tooltip>
+- Gemütliches Zuhause: <Tooltip text="Und Jesus spricht zu ihm: Die Füchse haben Höhlen und die Vögel des Himmels Nester, aber der Sohn des Menschen hat nicht, wo er das Haupt hinlege." href="https://www.csv-bibel.de/bibel/matthaeus-8#v20">Mt 8,20</Tooltip>
+- Familiäre Verwandschaftsbeziehungen: <Tooltip text="Wer Vater oder Mutter mehr lieb hat als mich, ist meiner nicht würdig; und wer Sohn oder Tochter mehr lieb hat als mich, ist meiner nicht würdig;" href="https://www.csv-bibel.de/bibel/matthaeus-10#v37">Mt 8,20</Tooltip>
+- TODO: photo
 
 
 ---
@@ -434,4 +481,7 @@ https://www.flaticon.com/free-icons/holy-bible
 Photo by <a href="https://unsplash.com/@loicleray?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Loic Leray</a> on <a href="https://unsplash.com/photos/man-on-rope-fCzSfVIQlVY?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 Photo by <a href="https://unsplash.com/@pawelskor?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Paul Skorupskas</a> on <a href="https://unsplash.com/photos/person-holding-camera-lens-7KLa-xLbSXA?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-      
+
+https://www.mz.de/leben/finanzen/nicht-nur-schlangen-diese-zehn-dinge-nerven-uns-im-supermarkt-1202483
+
+Image by <a href="https://pixabay.com/users/tookapic-1386459/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=932926">tookapic</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=932926">Pixabay</a>
