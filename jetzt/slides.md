@@ -81,8 +81,8 @@ image: /images/ravensbrueck.jpg
 ---
 layout: image-right
 image: /images/tagbogen.avif
-backgroundSize: 100%
-level: 2
+#backgroundSize: 100%
+#level: 2
 ---
 
 # Tagverlauf
