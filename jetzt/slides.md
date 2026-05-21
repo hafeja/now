@@ -51,7 +51,8 @@ Ganz im Hier und Jetzt.
 
 ---
 layout: image-right
-image: /images/life-overview.png
+#image: /images/life-overview.png
+image: /images/tagbogen.avif
 backgroundSize: 90%
 level: 1
 ---
@@ -79,7 +80,7 @@ image: /images/ravensbrueck.jpg
 
 ---
 layout: image-right
-image: /public/images/tagbogen.avif
+image: /images/tagbogen.avif
 backgroundSize: 100%
 level: 2
 ---
