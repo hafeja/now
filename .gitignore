@@ -13,7 +13,6 @@ components.d.ts
 # Slidev export outputs
 *.pdf
 *.pptx
-*.png
 
 # Environment & secrets — never commit these
 .env

@@ -23,7 +23,7 @@ comark: true
 <Tooltip text="Er aber sprach: Mein Sohn soll nicht mit euch hinabziehen; denn sein Bruder ist tot, und er allein ist übrig geblieben, und begegnete ihm ein Unfall auf dem Weg, auf dem ihr zieht, so würdet ihr mein graues Haar mit Kummer hinabbringen in den Scheol. (1. Mo 42,38)" href="https://www.csv-bibel.de/bibel/1-mose-42#v38">1. Mose 42,38</Tooltip>
 </div>
 
-<Tooltip text="die die gelegene Zeit auskaufen, denn die Tage sind böse" href="https://www.csv-bibel.de/bibel/1-mose-42#v38">Epheser 5,16</Tooltip>
+<Tooltip text="die die gelegene Zeit auskaufen, denn die Tage sind böse." href="https://www.csv-bibel.de/bibel/1-mose-42#v38">Epheser 5,16</Tooltip>
 
 ---
 layout: two-cols-header
@@ -53,7 +53,14 @@ backgroundSize: 90%
 
 # Dankbar
 
+<hr>
+<br>
+
 ## HEUTE
+
+<br>
+
+> Seid dankbar.
 
 <br>
 <Tooltip
@@ -70,7 +77,14 @@ image: /images/ravensbrueck.jpg
 
 # Dankbar
 
+<hr>
+<br>
+
 ## Allgmein
+
+<br>
+
+> Seid dankbar.
 
 ---
 layout: image-right
@@ -92,6 +106,7 @@ transition: slide-up
 
 # 🗯️ Austausch # 1
 
+<hr>
 <br>
 
 # Versetzt euch in die Lage älterer Gruppenmitglieder. Nennt den jeweils älteren Dinge, wofür sie eurer Vorstellung nach besonders dankbar sein dürfen.
@@ -101,13 +116,11 @@ transition: slide-up
 # 💡 Tipp: Zuhören, nicht widersprechen.
 
 ---
-level: 1
 layout: image
 image: /images/zielscheibe.jpg
 ---
 
 # Ziel
-
 
 <Tooltip text="Denn welche er zuvorerkannt hat, die hat er auch zuvorbestimmt, dem Bild seines Sohnes gleichförmig zu sein, damit er der Erstgeborene sei unter vielen Brüdern" href="https://www.csv-bibel.de/bibel/roemer-8#v29">Römer 8,29</Tooltip>
 
@@ -138,7 +151,6 @@ class: text-center
 # Was zählt? Über Prioritäten & Fokus
 
 ---
-level: 2
 class: text-center bg-black text-white
 ---
 
