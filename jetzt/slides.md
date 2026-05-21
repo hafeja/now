@@ -18,9 +18,7 @@ favicon: /images/crosshair.svg
 background: /images/slackline.jpg
 ---
 
-
 # Jetzt zählt's
-
 
 <br>
 
@@ -31,11 +29,9 @@ Bewusst dienen.
 Ganz im Hier und Jetzt.
 
 <br>
-
 <q style="color:yellow">die gelegene Zeit auskaufen, denn die Tage sind böse.</q>
 
 <a href="https://www.csv-bibel.de/bibel/epheser-5#v16">Epheser 5,16</a>
-
 
 
 ---
@@ -46,9 +42,8 @@ class: text-center
 # Inhalt
 
 <hr>
-<br>
 
-```mermaid {scale: 0.7}
+```mermaid {scale: 0.95}
 mindmap
   root((Jetzt zählt's))
     Dankbarkeit
@@ -80,10 +75,8 @@ backgroundSize: 94%
 # Dankbar | <span v-mark.circle.blue="0">Heute</span>
 
 <hr>
-
 <br>
 <br>
-
 <q style="color:#60a5fa">Und seid dankbar.</q>
 
 <a href="https://www.csv-bibel.de/bibel/kolosser-3#v15">Kolosser 3,15</a>
@@ -116,7 +109,7 @@ level: 2
 
 <hr>
 
-<p style="font-size: 3rem">👶>🧒>🙆‍♀️>🤰>👵🏼</p>
+<p style="font-size: 3.3rem">👶🧒🙆‍♀️🤰👵🏼</p>
 
 <br>
 
@@ -192,7 +185,7 @@ level: 2
 transition: slide-up
 ---
 
-# 🗯️ Austausch # 1
+# 🗯️ Austausch # 1 <span style="float:right">⏱️ 10 m</span>
 
 <hr>
 <br>
@@ -210,9 +203,35 @@ layout: image
 image: /images/zielscheibe.jpg
 ---
 
-# Ziel
+# Ziel | <Tooltip text="Denn welche er zuvorerkannt hat, die hat er auch zuvorbestimmt, dem Bild seines Sohnes gleichförmig zu sein, damit er der Erstgeborene sei unter vielen Brüdern." href="https://www.csv-bibel.de/bibel/roemer-8#v29">Römer 8,29</Tooltip>
 
-<Tooltip text="Denn welche er zuvorerkannt hat, die hat er auch zuvorbestimmt, dem Bild seines Sohnes gleichförmig zu sein, damit er der Erstgeborene sei unter vielen Brüdern" href="https://www.csv-bibel.de/bibel/roemer-8#v29">Römer 8,29</Tooltip>
+Für dich? Für andere?
+
+---
+layout: two-cols-header
+class: smaller-text
+---
+
+# Ziel | Details
+
+<hr>
+
+::left::
+
+- SEIN Wille im Wie (<Tooltip text="Und er ging ein wenig weiter und fiel auf sein Angesicht und betete und sprach: Mein Vater, wenn es möglich ist, so gehe dieser Kelch an mir vorüber; doch nicht wie ich will, sondern wie du willst." href="https://www.csv-bibel.de/bibel/matthaeus-26#v39">Mt 26,39</Tooltip>) und im Was (<Tooltip text="Und er sprach: Abba, Vater, alles ist dir möglich; nimm diesen Kelch von mir weg! Doch nicht, was ich will, sondern was du willst!" href="https://www.csv-bibel.de/bibel/markus-14#v36">Mk 14,36</Tooltip>)
+- <Tooltip text="Und er ist für alle gestorben, damit die, die leben, nicht mehr sich selbst leben, sondern dem, der für sie gestorben und auferweckt worden ist." href="https://www.csv-bibel.de/bibel/2-korinther-5#v15">2. Kor 5,15</Tooltip>: Für Gott leben
+- <Tooltip text="Denn sie selbst berichten von uns, welchen Eingang wir bei euch hatten und wie ihr euch von den Götzenbildern zu Gott bekehrt habt, um dem lebendigen und wahren Gott zu dienen" href="https://www.csv-bibel.de/bibel/1-thessalonicher-1#v9">1. Thes 1,9</Tooltip>: Dienst
+- <Tooltip text="Geht nun hin und macht alle Nationen zu Jüngern und tauft sie auf den Namen des Vaters und des Sohnes und des Heiligen Geistes und lehrt sie" href="https://www.csv-bibel.de/bibel/matthaeus-28#v19">Mt 28,19f</Tooltip>: Evangelisation
+- <Tooltip text="Es kommt aber die Stunde und ist jetzt, da die wahrhaftigen Anbeter den Vater in Geist und Wahrheit anbeten werden; denn auch der Vater sucht solche als seine Anbeter." href="https://www.csv-bibel.de/bibel/johannes-4#v23">Joh 4,23</Tooltip>: Anbetung
+
+::right::
+
+- <Tooltip text="Während sie aber aßen, nahm Jesus Brot, segnete, brach und gab es den Jüngern und sprach: Nehmt, esst; dies ist mein Leib. [27] Und er nahm den Kelch und dankte und gab ihnen diesen und sagte: Trinkt alle daraus" href="https://www.csv-bibel.de/bibel/matthaeus-26#v26">Mt 26,26-27</Tooltip>: 🍞🍷 
+- <Tooltip text="So kann nun keiner von euch, der nicht allem entsagt, was er hat, mein Jünger sein." href="https:/www.csv-bibel.de/bibel/lukas-14#v33">Lk 14,33</Tooltip>: Entsagung von <span v-mark.underline.blue>allem</span>
+- <Tooltip text="Er sprach aber zu allen: Wenn jemand mir nachkommen will, so verleugne er sich selbst und nehme täglich sein Kreuz auf und folge mir nach." href="https://www.csv-bibel.de/bibel/lukas-9#v23">Lk 9,23</Tooltip>: <span v-mark.underline.blue>Tägliche</span> Selbstverleugnung
+- <Tooltip text="Denn was für ein Ruhm ist es, wenn ihr ausharrt, indem ihr sündigt und geschlagen werdet? Aber wenn ihr ausharrt, indem ihr Gutes tut und leidet, das ist wohlgefällig bei Gott." href="https://www.csv-bibel.de/bibel/1-petrus-2#v20">1. Pet 2,20</Tooltip>: Leiden
+- <Tooltip text="Ich habe dich verherrlicht auf der Erde; das Werk habe ich vollbracht, das du mir gegeben hast, dass ich es tun sollte." href="https://www.csv-bibel.de/bibel/johannes-17#v4">Joh 17,4</Tooltip>: <span v-mark.underline.blue>Gott</span> verherrlichen
+- <Tooltip text="sammelt euch aber Schätze im Himmel, wo weder Motte noch Rost zerstören und wo Diebe nicht einbrechen und nicht stehlen;" href="https://www.csv-bibel.de/bibel/matthaeus-6#v20">Mt 6,20</Tooltip>: 🪎 im Himmel
 
 
 ---
@@ -220,13 +239,23 @@ level: 2
 transition: slide-up
 ---
 
-# 🗯️ Austausch # 2
+# 🗯️ Austausch # 2 <span style="float:right">⏱️ 15 m</span>
 
-<br>
-<br>
+<hr>
 
-1. Bei welchen Ziel-Aspekten fällt es dir besonders schwer, dich mit zu identifizieren.
+1. Welcher Ziel-Aspekt bereitet dir bei der praktischen Umsetzung die größten Schwierigkeiten?
 1. Warum?
+1. Tauscht Erfahrungen dazu aus.
+
+<br>
+
+<span v-mark.circle.blue>
+  <div>
+    👍 Erlaubt: Gemeinschaft als Unfromme
+    <br>
+    ⚠️ Risiko: Einsamkeit, Oberflächlichkeit
+  </div>
+</span>
 
 
 ---
@@ -251,22 +280,6 @@ class: text-center
 
 # Evangelisieren
 
-
----
-level: 2
-class: text-center
-layout: image
-image: /public/images/zielscheibe.jpg
-# backgroundSize: contain
-backgroundSize: 50%
-# background: what's app status screenshot durchgestrichen
----
-
-# Was nicht entscheidend ist
-
-## dfdfd
-
-normaler text
 
 ---
 level: 1
