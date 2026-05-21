@@ -12,7 +12,7 @@ info: |
 titleTemplate: '%s'
 class: text-center
 # slide transition: https://sli.dev/guide/animations.html#slide-transitions
-transition: slide-up
+transition: slide-left
 # enable Comark Syntax: https://comark.dev/syntax/markdown
 comark: true
 # favicon: 'https://cdn.jsdelivr.net/gh/slidevjs/slidev/assets/favicon.png'
@@ -29,6 +29,7 @@ comark: true
 ---
 layout: two-cols-header
 level: 1
+transition: slide-up
 ---
 
 
@@ -78,7 +79,7 @@ image: images/ravensbrück.jpg
 
 ---
 layout: image-right
-image: images/tagbogen.avif
+image: /public/images/tagbogen.avif
 backgroundSize: 100%
 level: 2
 ---
@@ -104,7 +105,7 @@ Versetzt euch in die Lage älterer Gruppenmitglieder. Nennt den jeweils älteren
 ---
 level: 1
 layout: image
-image: images/zielscheibe.jpg
+image: /public/images/zielscheibe.jpg
 ---
 
 # Ziel
@@ -177,7 +178,7 @@ This shows on the right
 level: 2
 class: text-center
 layout: image
-image: images/zielscheibe.jpg
+image: /public/images/zielscheibe.jpg
 # backgroundSize: contain
 backgroundSize: 50%
 # background: what's app status screenshot durchgestrichen
