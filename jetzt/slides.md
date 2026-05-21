@@ -42,30 +42,34 @@ Ganz im Hier und Jetzt.
 
 ::right::
 
-<Toc text-sm minDepth="1" maxDepth="2" />
+<Toc text-sm minDepth="1" maxDepth="1" />
 
 ---
-layout: two-cols
+layout: image-right
+image: images/life-overview.png
+backgroundSize: 90%
 level: 1
 ---
 
-# Dankbar im Heute
+# Dankbar im HEUTE
 
-<img src="/public/images/life-overview.png" class="mx-auto max-h-90" />
 
-::right::
-<div>
 <Tooltip
   text="Und der Friede des Christus regiere in euren Herzen, zu dem ihr auch berufen worden seid in einem Leib; und seid dankbar. (Kol 3,15)"
   href="https://www.csv-bibel.de/bibel/kolosser-3#v15"
 >
   Kolosser 3,15
 </Tooltip>
-</div>
-<div class="h-full flex items-center">
 
-<img src="./public/images/tagbogen.avif" />
-</div>
+---
+layout: image-right
+image: images/tagbogen.avif
+backgroundSize: 100%
+level: 2
+---
+
+# 
+
 
 ---
 level: 2
@@ -80,8 +84,8 @@ Versetzt euch in die Lage älterer Gruppenmitglieder. Nennt den jeweils älteren
 
 ---
 level: 1
-layout: cover
-background: ./public/images/zielscheibe.jpg
+layout: image
+image: images/zielscheibe.jpg
 ---
 
 # Ziel
@@ -125,8 +129,32 @@ class: text-center
 # Evangelisieren
 
 ---
+layout: two-cols-header
+---
+
+This spans both
+
+::left::
+
+# Left
+
+This shows on the left
+
+::right::
+
+# Right
+
+This shows on the right
+
+
+
+---
 level: 2
 class: text-center
+layout: image
+image: public/images/zielscheibe.jpg
+# backgroundSize: contain
+backgroundSize: 50%
 # background: what's app status screenshot durchgestrichen
 ---
 
