@@ -70,7 +70,7 @@ level: 1
 
 ---
 layout: image-left
-image: images/ravensbrück.jpg
+image: /images/ravensbrueck.jpg
 ---
 
 # Dankbar
@@ -98,9 +98,13 @@ transition: slide-up
 
 # 🗯️ Austausch # 1
 
-Versetzt euch in die Lage älterer Gruppenmitglieder. Nennt den jeweils älteren Dinge, wofür sie eurer Vorstellung nach besonders dankbar sein dürfen.
+<br>
 
-💡 Tipp: Zuhören, nicht widersprechen.
+# Versetzt euch in die Lage älterer Gruppenmitglieder. Nennt den jeweils älteren Dinge, wofür sie eurer Vorstellung nach besonders dankbar sein dürfen.
+
+<br>
+
+# 💡 Tipp: Zuhören, nicht widersprechen.
 
 ---
 level: 1
@@ -290,6 +294,8 @@ Photo by [Becca Romine](https://unsplash.com/@brecca85?utm_source=unsplash&utm_m
 https://pixabay.com/photos/accuracy-dart-goal-direct-hit-454196/
 
 https://waitbutwhy.com/2014/05/life-weeks.html
+
+https://www.ravensbrueck-sbg.de/en/history/1939-1945/
 
 ---
 
