@@ -12,7 +12,7 @@ info: |
 titleTemplate: '%s'
 class: text-center
 # slide transition: https://sli.dev/guide/animations.html#slide-transitions
-transition: slide-left
+transition: slide-up
 # enable Comark Syntax: https://comark.dev/syntax/markdown
 comark: true
 # favicon: 'https://cdn.jsdelivr.net/gh/slidevjs/slidev/assets/favicon.png'
@@ -27,10 +27,12 @@ comark: true
 <Tooltip text="die die gelegene Zeit auskaufen, denn die Tage sind böse" href="https://www.csv-bibel.de/bibel/1-mose-42#v38">Epheser 5,16</Tooltip>
 
 ---
-layout: two-cols
-layoutClass: gap-16
+layout: two-cols-header
 level: 1
 ---
+
+
+::left::
 
 # Intro
 
@@ -42,11 +44,13 @@ Ganz im Hier und Jetzt.
 
 ::right::
 
+
+
 <Toc text-sm minDepth="1" maxDepth="1" />
 
 ---
 layout: image-right
-image: images/life-overview.png
+image: /images/life-overview.png
 backgroundSize: 90%
 level: 1
 ---
@@ -315,32 +319,3 @@ also allows you to add
 
 </v-click>
 
-
-
----
-foo: bar
-dragPos:
-  square: 691,32,167,_,-16
----
-
-# Draggable Elements
-
-Double-click on the draggable elements to edit their positions.
-
-<br>
-
-###### Directive Usage
-
-```md
-<img v-drag="'square'" src="https://sli.dev/logo.png">
-```
-
-<br>
-
-###### Draggable Arrow
-
-```md
-<v-drag-arrow two-way />
-```
-
-<v-drag-arrow pos="67,452,253,46" two-way op70 />
