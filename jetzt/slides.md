@@ -14,22 +14,15 @@ class: text-center
 transition: slide-left
 # enable Comark Syntax: https://comark.dev/syntax/markdown
 comark: true
-# favicon: 'https://cdn.jsdelivr.net/gh/slidevjs/slidev/assets/favicon.png'
+favicon: /images/crosshair.svg
+background: /images/slackline.jpg
 ---
 
 
 # Jetzt zählt's
 
-<Tooltip text="die die gelegene Zeit auskaufen, denn die Tage sind böse." href="https://www.csv-bibel.de/bibel/1-mose-42#v38">Epheser 5,16</Tooltip>
 
----
-layout: two-cols-header
-transition: slide-up
----
-
-::left::
-
-# Intro
+<br>
 
 Dankbar leben.
 
@@ -37,9 +30,46 @@ Bewusst dienen.
 
 Ganz im Hier und Jetzt.
 
-::right::
+<br>
 
-<Toc text-sm minDepth="1" maxDepth="1" />
+<q style="color:yellow">die gelegene Zeit auskaufen, denn die Tage sind böse.</q>
+
+<a href="https://www.csv-bibel.de/bibel/epheser-5#v16">Epheser 5,16</a>
+
+
+
+---
+transition: slide-up
+class: text-center
+---
+
+# Inhalt
+
+<hr>
+<br>
+
+```mermaid {scale: 0.7}
+mindmap
+  root((Jetzt zählt's))
+    Dankbarkeit
+      Aktuelle Lebenssituation
+        Single
+        Eltern
+        Grosseltern
+        Dankbarkeit
+    Austausch & <br> Nachdenken
+        Fails
+        Wins
+        Realtitätsflucht
+        Ziel
+      Prioritäten
+    Selbstreflexion
+      Ehrlichkeit
+    Gemeinsam
+      "Angesicht schärfen"
+      Trost
+      Motivation
+```
 
 ---
 layout: image-right
@@ -47,22 +77,17 @@ image: /images/life-overview.png
 backgroundSize: 94%
 ---
 
-# Dankbar
+# Dankbar | <span v-mark.circle.blue="0">Heute</span>
 
 <hr>
-<br>
-
-<span v-mark.circle.blue="0">Heute</span>
 
 <br>
 <br>
 
-<Tooltip
-  text="Und der Friede des Christus regiere in euren Herzen, zu dem ihr auch berufen worden seid in einem Leib; und seid dankbar. (Kol 3,15)"
-  href="https://www.csv-bibel.de/bibel/kolosser-3#v15"
->
-  Kolosser 3,15
-</Tooltip>
+<q style="color:#60a5fa">Und seid dankbar.</q>
+
+<a href="https://www.csv-bibel.de/bibel/kolosser-3#v15">Kolosser 3,15</a>
+
 
 ---
 layout: image-left
@@ -70,16 +95,15 @@ image: /images/ravensbrueck.jpg
 level: 2
 ---
 
-# Dankbar
+# Dankbar | Allgmein
 
 <hr>
-<br>
 
-## Allgmein
-
-<br>
-
-
+- Freiheit ⛓️‍💥
+- Wohlstand 🪎
+- geistlicher Segen 
+- christliche Gemeinschaft 🫂
+- Adressat für Dankbarkeit: Gott 🤲
 
 ---
 layout: image-right
@@ -88,11 +112,79 @@ backgroundSize: 99%
 level: 2
 ---
 
-# Tagverlauf
+# Dankbar | Aktuell
 
-- Teenie
-- 20er
-- Eltern junger Kinder
+<hr>
+
+<p style="font-size: 3rem">👶>🧒>🙆‍♀️>🤰>👵🏼</p>
+
+<br>
+
+<Tooltip
+  text="Sein Fleisch wird frischer sein als in der Jugend; er wird zurückkehren zu den Tagen seiner Jünglingskraft."
+  href="https://www.csv-bibel.de/bibel/hiob-33#v25"
+>
+  Hiob 33,25
+</Tooltip>
+
+<br>
+
+<Tooltip
+  text="wie Pfeile in der Hand eines Helden, so sind die Söhne der Jugend"
+  href="https://www.csv-bibel.de/bibel/psalm-127#v4"
+>
+  Psalm 127,4
+</Tooltip>
+
+<br>
+
+<Tooltip
+  text="Das graue Haar ist eine prächtige Krone: Auf dem Weg der Gerechtigkeit wird sie gefunden."
+  href="https://www.csv-bibel.de/bibel/sprueche-16#v31"
+>
+  Sprüche 16,31
+</Tooltip>
+
+<br>
+
+<Tooltip
+  text="Kindeskinder sind die Krone der Alten, und der Schmuck der Kinder sind ihre Väter."
+  href="https://www.csv-bibel.de/bibel/sprueche-17#v6"
+>
+  Sprüche 17,6
+</Tooltip>
+
+<br>
+<br>
+
+> Älter werden mit dem Herrn ist soo toll.
+>
+> ER regelt alles für mich und ich brauche mich um nichts zu kümmern.
+
+---
+level: 2
+layout: two-cols-header
+---
+
+# <span style="color: red;">Un</span>dankbarkeit | Realitätsflucht
+<hr>
+
+::left::
+
+- Vergleiche (1%)
+- Ungeduld & Nostalgie
+- Eigenwilliger Dienst
+- egoistische Me-Time ☕️
+- Ausklinken ⚽️ 🛍️  
+
+::right::
+
+- Medien 📖 🎧
+- Filme 🧛
+- <span v-mark.circle.red="0">screentime</span> 📱
+  - Eskapismus & Emotionsregulation 
+  - Schönes übersehen 🙈
+- verschlimmert 📉
 
 
 ---
@@ -111,7 +203,7 @@ Versetzt euch in die Lage älterer Gruppenmitglieder. Nennt den jeweils Älteren
 <br>
 <br>
 
- 💡 Tipp: <span v-mark.underline.orange>Zuhören</span>, nicht widersprechen.
+💡 Tipp: <span v-mark.underline.orange>Zuhören</span>, nicht widersprechen 😉
 
 ---
 layout: image
@@ -300,3 +392,8 @@ https://waitbutwhy.com/2014/05/life-weeks.html
 https://www.ravensbrueck-sbg.de/en/history/1939-1945/
 
 https://www.spektrum.de/news/was-ist-zeit/1168976
+
+https://www.flaticon.com/free-icons/holy-bible
+
+Photo by <a href="https://unsplash.com/@loicleray?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Loic Leray</a> on <a href="https://unsplash.com/photos/man-on-rope-fCzSfVIQlVY?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+      
