@@ -17,11 +17,8 @@ comark: true
 # favicon: 'https://cdn.jsdelivr.net/gh/slidevjs/slidev/assets/favicon.png'
 ---
 
-# Jetzt zählt's
 
-<div>
-<Tooltip text="Er aber sprach: Mein Sohn soll nicht mit euch hinabziehen; denn sein Bruder ist tot, und er allein ist übrig geblieben, und begegnete ihm ein Unfall auf dem Weg, auf dem ihr zieht, so würdet ihr mein graues Haar mit Kummer hinabbringen in den Scheol. (1. Mo 42,38)" href="https://www.csv-bibel.de/bibel/1-mose-42#v38">1. Mose 42,38</Tooltip>
-</div>
+# Jetzt zählt's
 
 <Tooltip text="die die gelegene Zeit auskaufen, denn die Tage sind böse." href="https://www.csv-bibel.de/bibel/1-mose-42#v38">Epheser 5,16</Tooltip>
 
@@ -29,7 +26,6 @@ comark: true
 layout: two-cols-header
 transition: slide-up
 ---
-
 
 ::left::
 
@@ -48,7 +44,7 @@ Ganz im Hier und Jetzt.
 ---
 layout: image-right
 image: /images/life-overview.png
-backgroundSize: 95%
+backgroundSize: 94%
 ---
 
 # Dankbar
@@ -56,7 +52,7 @@ backgroundSize: 95%
 <hr>
 <br>
 
-## HEUTE
+<span v-mark.circle.blue="0">Heute</span>
 
 <br>
 <br>
@@ -83,7 +79,7 @@ level: 2
 
 <br>
 
-> Seid dankbar.
+
 
 ---
 layout: image-right
@@ -108,13 +104,14 @@ transition: slide-up
 
 <hr>
 <br>
-
-# Versetzt euch in die Lage älterer Gruppenmitglieder. Nennt den jeweils Älteren diejenigen Dinge, wofür sie eurer Vorstellung nach besonders dankbar sein dürfen.
+<div>
+Versetzt euch in die Lage älterer Gruppenmitglieder. Nennt den jeweils Älteren diejenigen Dinge, wofür sie eurer Vorstellung nach besonders dankbar sein dürfen.
+</div>
 
 <br>
 <br>
 
-# 💡 Tipp: Zuhören, nicht widersprechen.
+ 💡 Tipp: <span v-mark.underline.orange>Zuhören</span>, nicht widersprechen.
 
 ---
 layout: image
@@ -136,11 +133,8 @@ transition: slide-up
 <br>
 <br>
 
-# 1. Bei welchen Ziel-Aspekten fällt es dir besonders schwer, dich mit zu identifizieren.
-
-<br>
-
-# 2. Warum?
+1. Bei welchen Ziel-Aspekten fällt es dir besonders schwer, dich mit zu identifizieren.
+1. Warum?
 
 
 ---
@@ -164,27 +158,6 @@ class: text-center
 ---
 
 # Evangelisieren
-
----
-layout: two-cols-header
----
-
-# header 
-
-This spans both
-
-::left::
-
-# Left
-
-This shows on the left
-
-::right::
-
-# Right
-
-This shows on the right
-
 
 
 ---
@@ -216,15 +189,16 @@ level: 2
 transition: slide-up
 ---
 
-# 🗯️ 3
+# 🗯️ Austausch # 3
+
+<hr>
+<br>
 
 1. Notiere dir deine persönlichen `let him`-Themen
 1. Bei welchem Thema fällt es dir besonders schwer, es an IHN abzugeben?
 1. Warum fällt es dir schwer?
 1. Tauscht euch über positive und negative Erfahrungen aus, die ihr beim "Abgeben" bereits gesammelt habt.
 
----
-level: 1
 ---
 
 # Warum - Selbstreflexion
@@ -269,15 +243,24 @@ level: 2
 transition: slide-up
 ---
 
-# 🗯️ 4
+# 🗯️ Austausch # 4
 
+<hr>
+<br>
+
+<div>
 Ihr steht vor der Entscheidung, außen an eurem eigenen Haus ein 2x3m großes Bibel-Plakat anzubringen.
+
 1. Sammelt gemeinsam Gründe, die die dagegen sprechen.
 2. Hinterfragt mit mehrfachen "Warums", wie ihr zu diesen Gründen kommt und ob sie <span v-mark.circle.red="0">biblisch</span> haltbar sein.
+</div>
 
 ---
 
-# Es geht aufwärts
+# 🚀 
+
+<hr>
+<br>
 
 Phil 3,13f
 
@@ -290,10 +273,21 @@ Off 22,20
 1 Kor 15,58
 
 ---
-layout: end
+layout: image-right
+image: /images/qrcode.svg
+backgroundSize: 90%
 ---
 
-# Präsentation
+<style>
+  p {
+    font-size: 0.6rem;
+  }
+</style>
+
+# Nimm mit!
+
+<hr>
+<br>
 
 ## Quellen
 
@@ -305,32 +299,4 @@ https://waitbutwhy.com/2014/05/life-weeks.html
 
 https://www.ravensbrueck-sbg.de/en/history/1939-1945/
 
----
-
-# Clicks Animations
-
-You can add `v-click` to elements to add a click animation.
-
-<div v-click="1">
-
-This shows up when you press <kbd>space</kbd> or <kbd>right</kbd>, or click outside the slide on the right.
-
-```html
-<div v-click>This shows up when you trigger a click animation.</div>
-```
-
-</div>
-
-<v-click at="2">
-
-The <span v-mark.red="2"><code>v-mark</code> directive</span>
-also allows you to add
-<span v-mark.circle.orange="3">inline marks</span>
-, powered by [Rough Notation](https://roughnotation.com/):
-
-```html
-<span v-mark.underline.orange>inline markers</span>
-```
-
-</v-click>
-
+https://www.spektrum.de/news/was-ist-zeit/1168976
