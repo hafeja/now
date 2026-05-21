@@ -1,9 +1,8 @@
 ---
 # try also 'default' to start simple
 theme: default
-# random image from a curated Unsplash collection by Anthony
 # like them? see https://unsplash.com/collections/94734566/slidev
-background: https://cover.sli.dev
+# background: https://cover.sli.dev
 # some information about your slides (markdown enabled)
 title: Jetzt zählts'!
 info: |
@@ -28,7 +27,6 @@ comark: true
 
 ---
 layout: two-cols-header
-level: 1
 transition: slide-up
 ---
 
@@ -45,15 +43,12 @@ Ganz im Hier und Jetzt.
 
 ::right::
 
-
-
 <Toc text-sm minDepth="1" maxDepth="1" />
 
 ---
 layout: image-right
 image: /images/life-overview.png
 backgroundSize: 90%
-level: 1
 ---
 
 # Dankbar
@@ -268,10 +263,9 @@ Ihr steht vor der Entscheidung, außen an eurem eigenen Haus ein 2x3m großes Bi
 2. Hinterfragt mit mehrfachen "Warums", wie ihr zu diesen Gründen kommt und ob sie <span v-mark.circle.red="0">biblisch</span> haltbar sein.
 
 ---
-level: 1
----
 
 # Es geht aufwärts
+
 Phil 3,13f
 
 Heb 12,1
@@ -283,7 +277,7 @@ Off 22,20
 1 Kor 15,58
 
 ---
-level: 1
+layout: end
 ---
 
 # Präsentation
