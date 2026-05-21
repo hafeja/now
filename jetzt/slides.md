@@ -51,7 +51,7 @@ level: 1
 
 # Dankbar im Heute
 
-<img src="./public/images/life-overview.png" class="mx-auto max-h-90" />
+<img src="/public/images/life-overview.png" class="mx-auto max-h-90" />
 
 ::right::
 <div>
