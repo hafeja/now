@@ -260,17 +260,37 @@ transition: slide-up
 
 ---
 level: 1
+layout: image
 class: text-center
-# background: verschwommene Zielscheibe
+image: /images/fokus.jpg
 ---
 
 # Was zählt? Über Prioritäten & Fokus
+
+<hr>
 
 ---
 class: text-center bg-black text-white
 ---
 
 # Stille Zeit
+
+<hr>
+<br>
+
+Identität <span v-mark.circle.blue>></span> Tätigkeit
+
+Gebet 🙏: <Tooltip text="Wenn aber jener, der Geist der Wahrheit, gekommen ist, wird er euch in die ganze Wahrheit leiten; denn er wird nicht von sich selbst aus reden, sondern was er hören wird, wird er reden, und das Kommende wird er euch verkündigen." href="https://www.csv-bibel.de/bibel/johannes-16#v13">Joh 16,13</Tooltip>
+
+Bibelstudium 📖: <Tooltip text="Und dies ist die Zuversicht, die wir zu ihm haben, dass, wenn wir etwas nach seinem Willen bitten, er uns hört." href="https://www.csv-bibel.de/bibel/1-johannes-5#v14">1. Joh 5,14</Tooltip>
+
+Aus- und Einatmen
+
+<span v-mark.underline.blue>himmlisches</span> office: <Tooltip text="und hat uns mitauferweckt und mitsitzen lassen in den himmlischen Örtern in Christus Jesus" href="https://www.csv-bibel.de/bibel/epheser-2#v6">Eph 2,6</Tooltip>
+
+<span v-mark.underline.blue>real </span>obwohl unsichtbar: <Tooltip text="und hat uns mitauferweckt und mitsitzen lassen in den himmlischen Örtern in Christus Jesus" href="https://www.csv-bibel.de/bibel/epheser-2#v6">Eph 2,6</Tooltip>
+
+Vorbilder: <Tooltip text="Er aber zog sich zurück und war in den Wüsteneien und betete." href="https://www.csv-bibel.de/bibel/lukas-5#v16">Lk 5,16</Tooltip> und <Tooltip text="Diese aber waren edler als die in Thessalonich; sie nahmen das Wort mit aller Bereitwilligkeit auf, indem sie täglich die Schriften untersuchten, ob dies sich so verhielte." href="https://www.csv-bibel.de/bibel/apostelgeschichte-17#v11">Apg 17,11</Tooltip>
 
 ---
 level: 2
@@ -381,11 +401,14 @@ Off 22,20
 layout: image-right
 image: /images/qrcode.svg
 backgroundSize: 90%
+class: sources
 ---
 
 <style>
   p {
-    font-size: 0.6rem;
+    font-size: 0.4rem;
+    line-height: 1.75;
+    margin: 0.6rem 0;
   }
 </style>
 
@@ -394,7 +417,7 @@ backgroundSize: 90%
 <hr>
 <br>
 
-## Quellen
+### Quellen
 
 Photo by [Becca Romine](https://unsplash.com/@brecca85?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) Romine on [Unsplash](https://unsplash.com/photos/faded-green-lights-digital-wallpaper-Lll4QeybDEg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
@@ -409,4 +432,6 @@ https://www.spektrum.de/news/was-ist-zeit/1168976
 https://www.flaticon.com/free-icons/holy-bible
 
 Photo by <a href="https://unsplash.com/@loicleray?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Loic Leray</a> on <a href="https://unsplash.com/photos/man-on-rope-fCzSfVIQlVY?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+Photo by <a href="https://unsplash.com/@pawelskor?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Paul Skorupskas</a> on <a href="https://unsplash.com/photos/person-holding-camera-lens-7KLa-xLbSXA?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
       

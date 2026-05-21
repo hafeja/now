@@ -17,7 +17,7 @@ const show = ref(false)
 }
 .tooltip-box {
   position: fixed;
-  top: 15vh;
+  top: 5vh;
   left: 15vw;
   width: 40vw;
   /* height: 40vh; */
