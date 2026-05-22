@@ -53,12 +53,13 @@ mindmap
         Grosseltern
         Dankbarkeit
     Austausch & <br> Nachdenken
-        Fails
-        Wins
-        Realtitätsflucht
-        Ziel
+      Fails
+      Wins
+      Realtitätsflucht
+      Ziel
       Prioritäten
     Selbstreflexion
+      Abgeben
       Ehrlichkeit
     Gemeinsam
       "Angesicht schärfen"
@@ -199,13 +200,21 @@ Versetzt euch in die Lage älterer Gruppenmitglieder. Nennt den jeweils Älteren
 💡 Tipp: <span v-mark.underline.orange>Zuhören</span>, nicht widersprechen 😉
 
 ---
-layout: image
+layout: image-left
 image: /images/zielscheibe.jpg
 ---
 
-# Ziel | <Tooltip text="Denn welche er zuvorerkannt hat, die hat er auch zuvorbestimmt, dem Bild seines Sohnes gleichförmig zu sein, damit er der Erstgeborene sei unter vielen Brüdern." href="https://www.csv-bibel.de/bibel/roemer-8#v29">Römer 8,29</Tooltip>
+# Ziel
 
-Für dich? Für andere?
+<hr>
+
+- <Tooltip text="Denn welche er zuvorerkannt hat, die hat er auch zuvorbestimmt, dem Bild seines Sohnes gleichförmig zu sein, damit er der Erstgeborene sei unter vielen Brüdern." href="https://www.csv-bibel.de/bibel/roemer-8#v29">Römer 8,29</Tooltip>
+- "Ziel bestimmt Stil"
+- Für dich?
+- Für andere?
+- Bibel 🧭
+- Vorbild 🐑 👑
+
 
 ---
 layout: two-cols-header
@@ -344,24 +353,57 @@ und <Tooltip text="Wenn mir jemand dient, so folge er mir nach; und wo ich bin, 
 - Irdische Sicherheiten: <Tooltip text="Damit wir ihnen aber keinen Anstoß geben, geh an den See, wirf eine Angel aus und nimm den ersten Fisch, der heraufkommt, tu sein Maul auf, und du wirst einen Stater finden; den nimm und gib ihnen für mich und dich." href="https://www.csv-bibel.de/bibel/matthaeus-17#v27">Mt 17,27</Tooltip>
 - Genuss von Essen: <Tooltip text="Denn das Reich Gottes ist nicht Essen und Trinken, sondern Gerechtigkeit und Friede und Freude im Heiligen Geist." href="https://www.csv-bibel.de/bibel/roemer-14#v17">Röm 14,17</Tooltip>
 - Gemütliches Zuhause: <Tooltip text="Und Jesus spricht zu ihm: Die Füchse haben Höhlen und die Vögel des Himmels Nester, aber der Sohn des Menschen hat nicht, wo er das Haupt hinlege." href="https://www.csv-bibel.de/bibel/matthaeus-8#v20">Mt 8,20</Tooltip>
-- Familiäre Verwandschaftsbeziehungen: <Tooltip text="Wer Vater oder Mutter mehr lieb hat als mich, ist meiner nicht würdig; und wer Sohn oder Tochter mehr lieb hat als mich, ist meiner nicht würdig;" href="https://www.csv-bibel.de/bibel/matthaeus-10#v37">Mt 8,20</Tooltip>
+- Familiäre Verwandschaftsbeziehungen: <Tooltip text="Wer Vater oder Mutter mehr lieb hat als mich, ist meiner nicht würdig; und wer Sohn oder Tochter mehr lieb hat als mich, ist meiner nicht würdig;" href="https://www.csv-bibel.de/bibel/matthaeus-10#v37">Mt 10,37</Tooltip>
 - TODO: photo
 
 
 ---
 level: 1
-layout: cover
-background: 
+layout: image
+image: /images/adler.jpg
 ---
 
-# Let ~~them~~/him, let me
+# Let ~~them/~~ him, let me
+
+<hr>
+
+<v-click>
+
+- (un)möglich: <Tooltip text="Jesus aber sah sie an und sprach zu ihnen: Bei Menschen ist dies unmöglich, bei Gott aber sind alle Dinge möglich." href="https://www.csv-bibel.de/bibel/matthaeus-19#v26">Mt 19,26</Tooltip>
+- Sein: <Tooltip text="Da sprach Gott zu Mose: 'Ich bin, der ich bin.' Und er sprach: So sollst du zu den Kindern Israel sagen: 'Ich bin' hat mich zu euch gesandt.'" href="https://www.csv-bibel.de/bibel/2-mose-3#v14">2. Mo 3,14</Tooltip> & <Tooltip text="Denn wenn jemand meint, etwas zu sein, da er doch nichts ist, so betrügt er sich selbst." href="https://www.csv-bibel.de/bibel/galater-6#v3">Gal 6,3</Tooltip>
+- Stärke: <Tooltip text="und er sprach: HERR, Gott unserer Väter, bist du es nicht, der da Gott im Himmel ist, und bist du nicht der Herrscher über alle Königreiche der Nationen? Und in deiner Hand ist Kraft und Macht; und niemand vermag gegen dich zu bestehen." href="https://www.csv-bibel.de/bibel/2-chronika-20#v6">2. Chr 20,6</Tooltip> & <Tooltip text="Unser Gott, willst du sie nicht richten? Denn in uns ist keine Kraft vor dieser großen Menge, die gegen uns kommt; und wir wissen nicht, was wir tun sollen, sondern auf dich sind unsere Augen gerichtet." href="https://www.csv-bibel.de/bibel/2-chronika-20#v12">2. Chr 20,12</Tooltip>
+- ER bekommt Ehre
+- <Tooltip text="Denn wir sind Gottes Mitarbeiter; Gottes Ackerfeld, Gottes Bau seid ihr." href="https://www.csv-bibel.de/bibel/1-korinther-3#v9">1. Kor 3,9</Tooltip> 🤩
+
+</v-click>
+
+
+---
+level: 2
+layout: image
+image: /images/adler.jpg
+---
+
+# Let ~~them~~/him, let me | Weg von <span style="color: red;">hin zu</span>
+
+<hr>
+
+
+- sich selbst ändern
+- unberechtigte Sorgen: <Tooltip text="So seid nun nicht besorgt für den morgigen Tag, denn der morgige Tag wird für sich selbst sorgen. Jeder Tag hat an seinem Übel genug." href="https://www.csv-bibel.de/bibel/matthaeus-6#v34">Mt 6,34</Tooltip>
+- Dienst anderer unnötig kritisieren
+- andere ändern
+- <Tooltip text="So spricht der HERR, der Heilige Israels und der es gebildet hat: Über das Zukünftige fragt mich; meine Kinder und das Werk meiner Hände lasst mir anbefohlen sein!" href="https://www.csv-bibel.de/bibel/jesaja-45#v11">Jes 45,11</Tooltip>
+- Ergebnisverantwortung
+- <span style="color: red;">Gehorsam im Kleinen: <Tooltip text="Da sprach sein Herr zu ihm: Wohl, du guter und treuer Knecht! Über weniges warst du treu, über vieles werde ich dich setzen; geh ein in die Freude deines Herrn." href="https://www.csv-bibel.de/bibel/matthaeus-25#v21">Mt 25,21</Tooltip>, <a href="https://www.csv-bibel.de/bibel/2-mose-15">2. Mo 15</a> & <a href="https://www.csv-bibel.de/bibel/2-chronika-20">2. Chr. 20</a></span>
+
 
 ---
 level: 2
 transition: slide-up
 ---
 
-# 🗯️ Austausch # 3
+# 🗯️ Austausch # 3 <span style="float:right">⏱️ 15 m</span>
 
 <hr>
 <br>
@@ -372,10 +414,32 @@ transition: slide-up
 1. Tauscht euch über positive und negative Erfahrungen aus, die ihr beim "Abgeben" bereits gesammelt habt.
 
 ---
+layout: image-right
+level: 1
+image: /images/boot-gps.png
+---
 
-# Warum - Selbstreflexion
+# Selbstreflexion
 
-```mermaid {scale: 0.7}
+<hr>
+
+- Warum? <Tooltip text="Und der HERR sprach zu Kain: Warum bist du ergrimmt, und warum hat sich dein Angesicht gesenkt?" href="https://www.csv-bibel.de/bibel/1-mose-4#v6">1. Mo 4,6</Tooltip>
+- <Tooltip text="Erforsche mich, Gott, und erkenne mein Herz; prüfe mich und erkenne meine Gedanken! Und sieh, ob ein Weg der Mühsal bei mir ist, und leite mich auf ewigem Weg!" href="https://www.csv-bibel.de/bibel/psalm-139#v23">Ps 139,23f</Tooltip>
+- 🏁: Wiederherstellung, Korrektur, <span style="font-size: 3.3rem"> 💎 </span>
+- <span style="font-size: 3.3rem">↔️</span> und <span style="font-size: 3.3rem">🌬️</span>
+- bewusster handeln
+- 5-Why: <span style="font-size: 4.3rem">√</span>
+
+---
+level: 2
+class: text-center
+---
+
+# Selbstreflexion | Beispiel
+
+<hr>
+
+```mermaid {scale: 0.8}
 ishikawa-beta
     Kindergarten
     Experten überlassen
@@ -396,7 +460,7 @@ ishikawa-beta
           vom Herrn
           eigenwillig selbst ergriffen
     Entlastung
-      unnötige weitere Belastungen
+      unnötige Belastungen
       andere Unterstützer
     Entwicklung des Kindes
         Motorik
@@ -406,43 +470,56 @@ ishikawa-beta
     Gesellschaftlicher Druck
         von Gläubigen
         von Ungläubigen
-      Mermaid
 ```
-
 
 ---
 level: 2
 transition: slide-up
 ---
 
-# 🗯️ Austausch # 4
+# 🗯️ Austausch # 4 <span style="float:right">⏱️ 15 m</span>
 
 <hr>
-<br>
 
 <div>
-Ihr steht vor der Entscheidung, außen an eurem eigenen Haus ein 2x3m großes Bibel-Plakat anzubringen.
+Ihr steht vor der Entscheidung, außen an eurem eigenen Haus ein 2 x 3 m großes Bibel-Plakat anzubringen.
 
-1. Sammelt gemeinsam Gründe, die die dagegen sprechen.
+1. Sammelt gemeinsam Gründe, die dagegen sprechen.
 2. Hinterfragt mit mehrfachen "Warums", wie ihr zu diesen Gründen kommt und ob sie <span v-mark.circle.red="0">biblisch</span> haltbar sein.
+3. Optional: Wiederholt die Übung mit einem Thema eurer Wahl. Beispiele: <span style="font-size: 4.3rem">🏖️🚗📱💶❤️😓</span>
 </div>
 
 ---
+layout: image
+image: /images/slackline.jpg
+---
 
-# 🚀 
+# 🚀  🧗  💪  🏁
 
 <hr>
 <br>
 
-Phil 3,13f
+🏆 <Tooltip text="Brüder, ich denke von mir selbst nicht, es ergriffen zu haben; eins aber tue ich: Vergessend, was dahinten, und mich ausstreckend nach dem, was vorn ist, jage ich, das Ziel anschauend, hin zu dem Kampfpreis der Berufung Gottes nach oben in Christus Jesus." href="https://www.csv-bibel.de/bibel/philipper-3#v13">Phil 3,13f</Tooltip>
 
-Heb 12,1
+💪 <Tooltip text="Alles vermag ich in dem, der mich kräftigt." href="https://www.csv-bibel.de/bibel/philipper-4#v13">Phil 4,13</Tooltip>
 
-1 Joh 2,20
+🪨 <Tooltip text="Daher, meine geliebten Brüder, seid fest, unbeweglich, allezeit überströmend in dem Werk des Herrn, da ihr wisst, dass eure Mühe nicht vergeblich ist im Herrn." href="https://www.csv-bibel.de/bibel/1-korinther-15#v58">1. Kor 15,58</Tooltip>
 
-Off 22,20
+🏃‍♂️ <Tooltip text="Deshalb nun, da wir eine so große Wolke von Zeugen um uns haben, lasst auch uns, indem wir jede Bürde und die leicht umstrickende Sünde ablegen, mit Ausharren laufen den vor uns liegenden Wettlauf, hinschauend auf Jesus, den Anfänger und Vollender des Glaubens, der, die Schande nicht achtend, für die vor ihm liegende Freude das Kreuz erduldete und sich gesetzt hat zur Rechten des Thrones Gottes." href="https://www.csv-bibel.de/bibel/hebraeer-11#v1">Heb 12,1f</Tooltip>
 
-1 Kor 15,58
+💡 <Tooltip text="Und ihr habt die Salbung von dem Heiligen und wisst alles." href="https://www.csv-bibel.de/bibel/1-johannes-2#v20">1. Joh 2,20</Tooltip>
+
+🏁 <Tooltip text="Der diese Dinge bezeugt, spricht: Ja, ich komme bald. – Amen; komm, Herr Jesus!" href="https://www.csv-bibel.de/bibel/offenbarung-22#v20">Off 22,20</Tooltip>
+
+<br>
+
+<span style="color:yellow"><q>hinschauend auf Jesus.</q> <a href="https://www.csv-bibel.de/bibel/hebraeer-11#v2">Heb 12,2</a></span>
+
+
+
+
+
+
 
 ---
 layout: image-right
@@ -485,3 +562,7 @@ Photo by <a href="https://unsplash.com/@pawelskor?utm_source=unsplash&utm_medium
 https://www.mz.de/leben/finanzen/nicht-nur-schlangen-diese-zehn-dinge-nerven-uns-im-supermarkt-1202483
 
 Image by <a href="https://pixabay.com/users/tookapic-1386459/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=932926">tookapic</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=932926">Pixabay</a>
+
+Image by <a href="https://pixabay.com/users/pen_ash-5526837/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=10238352">Penny</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=10238352">Pixabay</a>
+
+https://www.tagesschau.de/ausland/europa/ostsee-schifffahrt-gps-stoerungen-100.html
