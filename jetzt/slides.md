@@ -9,7 +9,7 @@ info: |
 titleTemplate: '%s'
 class: text-center
 # slide transition: https://sli.dev/guide/animations.html#slide-transitions
-transition: slide-left
+transition: slide-up
 # enable Comark Syntax: https://comark.dev/syntax/markdown
 comark: true
 favicon: /images/crosshair.svg
@@ -69,6 +69,7 @@ mindmap
 layout: image-right
 image: /images/life-overview.png
 backgroundSize: 94%
+transition: slide-left
 ---
 
 # Dankbar | <span v-mark.circle.blue="0">Heute</span>
@@ -84,10 +85,11 @@ backgroundSize: 94%
 ---
 layout: image-left
 image: /images/ravensbrueck.jpg
+transition: slide-left
 level: 2
 ---
 
-# Dankbar | Allgmein
+# Dankbar | Allgemein
 
 <hr>
 
@@ -101,6 +103,7 @@ level: 2
 layout: image-right
 image: /images/tagbogen.avif
 backgroundSize: 99%
+transition: slide-left
 level: 2
 ---
 
@@ -156,6 +159,7 @@ level: 2
 ---
 level: 2
 layout: two-cols-header
+transition: slide-left
 ---
 
 # <span style="color: red;">Un</span>dankbarkeit | Realitätsflucht 😑
@@ -173,7 +177,7 @@ layout: two-cols-header
 
 - Medien 📖 🎧
 - Filme 🥷🏽 🧛
-- <span v-mark.circle.red="0">screentime</span> 📱 📺
+- <span v-mark.circle.red="0">screen time</span> 📱 📺
   - Eskapismus  & Emotionsregulation 🤬
   - Schönes übersehen 🙈
 - verschlimmert 📉
@@ -200,6 +204,7 @@ Versetzt euch in die Lage älterer Gruppenmitglieder. Nennt den jeweils Älteren
 ---
 layout: image-left
 image: /images/zielscheibe.jpg
+transition: slide-left
 ---
 
 # Ziel
@@ -217,6 +222,7 @@ image: /images/zielscheibe.jpg
 ---
 layout: two-cols-header
 class: smaller-text
+transition: slide-left
 ---
 
 # Ziel | Details
@@ -270,6 +276,7 @@ level: 1
 layout: image
 class: text-center
 image: /images/fokus.jpg
+transition: slide-left
 ---
 
 # Was zählt? Über Prioritäten & Fokus
@@ -278,6 +285,8 @@ image: /images/fokus.jpg
 
 ---
 class: text-center bg-black text-white
+transition: slide-left
+level: 2
 ---
 
 # Prioritäten | Stille Zeit
@@ -293,7 +302,7 @@ Bibelstudium 📖: <Tooltip text="Und dies ist die Zuversicht, die wir zu ihm ha
 
 Aus- und Einatmen
 
-<span v-mark.underline.blue>himmlisches</span> office: <Tooltip text="und hat uns mitauferweckt und mitsitzen lassen in den himmlischen Örtern in Christus Jesus" href="https://www.csv-bibel.de/bibel/epheser-2#v6">Eph 2,6</Tooltip>
+<span v-mark.underline.blue>himmlisches</span> home office: <Tooltip text="und hat uns mitauferweckt und mitsitzen lassen in den himmlischen Örtern in Christus Jesus" href="https://www.csv-bibel.de/bibel/epheser-2#v6">Eph 2,6</Tooltip>
 
 <span v-mark.underline.blue>real </span>obwohl unsichtbar: <Tooltip text="und hat uns mitauferweckt und mitsitzen lassen in den himmlischen Örtern in Christus Jesus" href="https://www.csv-bibel.de/bibel/epheser-2#v6">Eph 2,6</Tooltip>
 
@@ -304,6 +313,7 @@ level: 2
 class: text-center evangelise-slide
 layout: image
 image: /images/kasse-homeoffice-zimmer.jpeg
+transition: slide-left
 ---
 
 # Prioritäten | Evangelisieren
@@ -319,6 +329,9 @@ Verantwortung: <Tooltip text="Da sprachen sie einer zum anderen: Wir tun nicht r
 Jederzeit: <Tooltip text="sondern heiligt Christus, den Herrn, in euren Herzen. Seid jederzeit bereit zur Verantwortung gegen jeden, der Rechenschaft von euch fordert über die Hoffnung, die in euch ist" href="https://www.csv-bibel.de/bibel/1-petrus-3#v15">1. Pet 3,15</Tooltip>
 
 ---
+transition: slide-left
+level: 2
+---
 
 # Prioritäten | Verschiedenes
 
@@ -333,26 +346,28 @@ und <Tooltip text="die Hoffnung aber beschämt nicht, denn die Liebe Gottes ist 
 - Frieden 🕊️: <Tooltip text="Jagt dem Frieden nach mit allen und der Heiligkeit, ohne die niemand den Herrn schauen wird;" href="https://www.csv-bibel.de/bibel/hebraer-12#v14">Heb 12,14</Tooltip>
 
 ---
+level: 2
+---
 
 # ~~Prioritäten~~ | Verschiedenes
 
 <hr>
 
 Prediger: Das Christenleben ist <span v-mark.underline.blue>wichtiger als: </span>
-- Ansehen bei Menschen: <Tooltip text="Denn ich bin mir selbst nichts bewusst, aber dadurch bin ich nicht gerechtfertigt. Der mich aber beurteilt, ist der Herr." href="https://www.csv-bibel.de/bibel/1-korinther-4#v4">1. Kor 4,4</Tooltip>
+- 👍 Ansehen bei Menschen: <Tooltip text="Denn ich bin mir selbst nichts bewusst, aber dadurch bin ich nicht gerechtfertigt. Der mich aber beurteilt, ist der Herr." href="https://www.csv-bibel.de/bibel/1-korinther-4#v4">1. Kor 4,4</Tooltip>
 und <Tooltip text="Wenn mir jemand dient, so folge er mir nach; und wo ich bin, da wird auch mein Diener sein. Wenn jemand mir dient, so wird der Vater ihn ehren." href="https://www.csv-bibel.de/bibel/johannes-12#v26">Joh 12,26</Tooltip>
-- Materieller Besitz: <Tooltip text="Als sie ihn aber gekreuzigt hatten, verteilten sie seine Kleider unter sich, indem sie das Los warfen." href="https://www.csv-bibel.de/bibel/matthaeus-27#v36">Mt 27,35</Tooltip> und <Tooltip text="denn wir haben nichts in die Welt hereingebracht, so ist es offenbar, dass wir auch nichts hinausbringen können." href="https://www.csv-bibel.de/bibel/1-timotheus-6#v7">1. Tim 6,7</Tooltip>
-- Irdische Sicherheiten: <Tooltip text="Damit wir ihnen aber keinen Anstoß geben, geh an den See, wirf eine Angel aus und nimm den ersten Fisch, der heraufkommt, tu sein Maul auf, und du wirst einen Stater finden; den nimm und gib ihnen für mich und dich." href="https://www.csv-bibel.de/bibel/matthaeus-17#v27">Mt 17,27</Tooltip>
-- Genuss von Essen: <Tooltip text="Denn das Reich Gottes ist nicht Essen und Trinken, sondern Gerechtigkeit und Friede und Freude im Heiligen Geist." href="https://www.csv-bibel.de/bibel/roemer-14#v17">Röm 14,17</Tooltip>
-- Gemütliches Zuhause: <Tooltip text="Und Jesus spricht zu ihm: Die Füchse haben Höhlen und die Vögel des Himmels Nester, aber der Sohn des Menschen hat nicht, wo er das Haupt hinlege." href="https://www.csv-bibel.de/bibel/matthaeus-8#v20">Mt 8,20</Tooltip>
-- Familiäre Verwandschaftsbeziehungen: <Tooltip text="Wer Vater oder Mutter mehr lieb hat als mich, ist meiner nicht würdig; und wer Sohn oder Tochter mehr lieb hat als mich, ist meiner nicht würdig;" href="https://www.csv-bibel.de/bibel/matthaeus-10#v37">Mt 10,37</Tooltip>
-- TODO: photo
+- 🏦 Materieller Besitz: <Tooltip text="Als sie ihn aber gekreuzigt hatten, verteilten sie seine Kleider unter sich, indem sie das Los warfen." href="https://www.csv-bibel.de/bibel/matthaeus-27#v36">Mt 27,35</Tooltip> und <Tooltip text="denn wir haben nichts in die Welt hereingebracht, so ist es offenbar, dass wir auch nichts hinausbringen können." href="https://www.csv-bibel.de/bibel/1-timotheus-6#v7">1. Tim 6,7</Tooltip>
+- 🔒 Irdische Sicherheiten: <Tooltip text="Damit wir ihnen aber keinen Anstoß geben, geh an den See, wirf eine Angel aus und nimm den ersten Fisch, der heraufkommt, tu sein Maul auf, und du wirst einen Stater finden; den nimm und gib ihnen für mich und dich." href="https://www.csv-bibel.de/bibel/matthaeus-17#v27">Mt 17,27</Tooltip>
+- 🍔 Genuss von Essen: <Tooltip text="Denn das Reich Gottes ist nicht Essen und Trinken, sondern Gerechtigkeit und Friede und Freude im Heiligen Geist." href="https://www.csv-bibel.de/bibel/roemer-14#v17">Röm 14,17</Tooltip>
+- 🏡 Gemütliches Zuhause: <Tooltip text="Und Jesus spricht zu ihm: Die Füchse haben Höhlen und die Vögel des Himmels Nester, aber der Sohn des Menschen hat nicht, wo er das Haupt hinlege." href="https://www.csv-bibel.de/bibel/matthaeus-8#v20">Mt 8,20</Tooltip>
+- 🧑‍🧑‍🧒‍🧒 Familiäre Verwandtschaftsbeziehungen: <Tooltip text="Wer Vater oder Mutter mehr lieb hat als mich, ist meiner nicht würdig; und wer Sohn oder Tochter mehr lieb hat als mich, ist meiner nicht würdig;" href="https://www.csv-bibel.de/bibel/matthaeus-10#v37">Mt 10,37</Tooltip>
 
 
 ---
 level: 1
 layout: image
 image: /images/adler.jpg
+transition: slide-left
 ---
 
 # Let ~~them/~~ him, let me
@@ -374,6 +389,7 @@ image: /images/adler.jpg
 level: 2
 layout: image
 image: /images/adler.jpg
+transition: slide-left
 ---
 
 # Let ~~them~~/him, let me | Weg von <span style="color: red;">hin zu</span>
@@ -386,7 +402,7 @@ image: /images/adler.jpg
 - andere ändern
 - <Tooltip text="So spricht der HERR, der Heilige Israels und der es gebildet hat: Über das Zukünftige fragt mich; meine Kinder und das Werk meiner Hände lasst mir anbefohlen sein!" href="https://www.csv-bibel.de/bibel/jesaja-45#v11">Jes 45,11</Tooltip>
 - Ergebnisverantwortung
-- <span style="color: red;">Gehorsam im Kleinen: <Tooltip text="Da sprach sein Herr zu ihm: Wohl, du guter und treuer Knecht! Über weniges warst du treu, über vieles werde ich dich setzen; geh ein in die Freude deines Herrn." href="https://www.csv-bibel.de/bibel/matthaeus-25#v21">Mt 25,21</Tooltip>, <a href="https://www.csv-bibel.de/bibel/2-mose-15">2. Mo 15</a> & <a href="https://www.csv-bibel.de/bibel/2-chronika-20">2. Chr. 20</a></span>
+- <span style="color: red;">Gehorsam im Kleinen: <Tooltip text="Da sprach sein Herr zu ihm: Wohl, du guter und treuer Knecht! Über weniges warst du treu, über vieles werde ich dich setzen; geh ein in die Freude deines Herrn." href="https://www.csv-bibel.de/bibel/matthaeus-25#v21" >Mt 25,21</Tooltip>, <a href="https://www.csv-bibel.de/bibel/2-mose-15" target="_blank">2. Mo 15</a> & <a href="https://www.csv-bibel.de/bibel/2-chronika-20" target="_blank">2. Chr. 20</a></span>
 
 
 ---
@@ -408,6 +424,7 @@ transition: slide-up
 layout: image-right
 level: 1
 image: /images/boot-gps.png
+transition: slide-left
 ---
 
 # Selbstreflexion
@@ -424,6 +441,7 @@ image: /images/boot-gps.png
 ---
 level: 2
 class: text-center
+transition: slide-left
 ---
 
 # Selbstreflexion | Beispiel
@@ -485,7 +503,7 @@ layout: image
 image: /images/slackline.jpg
 ---
 
-# 🚀  🧗  💪  🏁
+# Ermutigung 🚀
 
 <hr>
 <br>
