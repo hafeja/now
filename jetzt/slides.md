@@ -1,8 +1,6 @@
 ---
 # try also 'default' to start simple
 theme: default
-# like them? see https://unsplash.com/collections/94734566/slidev
-# background: https://cover.sli.dev
 # some information about your slides (markdown enabled)
 title: Jetzt zählts'!
 info: |
@@ -31,7 +29,7 @@ Ganz im Hier und Jetzt.
 <br>
 <q style="color:yellow">die gelegene Zeit auskaufen, denn die Tage sind böse.</q>
 
-<a href="https://www.csv-bibel.de/bibel/epheser-5#v16">Epheser 5,16</a>
+<a href="https://www.csv-bibel.de/bibel/epheser-5#v16" target="_blank">Epheser 5,16</a>
 
 
 ---
@@ -106,7 +104,7 @@ backgroundSize: 99%
 level: 2
 ---
 
-# Dankbar | Aktuell
+# Dankbar | Ich heute
 
 <hr>
 
@@ -160,7 +158,7 @@ level: 2
 layout: two-cols-header
 ---
 
-# <span style="color: red;">Un</span>dankbarkeit | Realitätsflucht
+# <span style="color: red;">Un</span>dankbarkeit | Realitätsflucht 😑
 <hr>
 
 ::left::
@@ -174,9 +172,9 @@ layout: two-cols-header
 ::right::
 
 - Medien 📖 🎧
-- Filme 🧛
-- <span v-mark.circle.red="0">screentime</span> 📱
-  - Eskapismus & Emotionsregulation 
+- Filme 🥷🏽 🧛
+- <span v-mark.circle.red="0">screentime</span> 📱 📺
+  - Eskapismus  & Emotionsregulation 🤬
   - Schönes übersehen 🙈
 - verschlimmert 📉
 
@@ -303,16 +301,10 @@ Vorbilder: <Tooltip text="Er aber zog sich zurück und war in den Wüsteneien un
 
 ---
 level: 2
-class: text-center
+class: text-center evangelise-slide
 layout: image
 image: /images/kasse-homeoffice-zimmer.jpeg
 ---
-
-<style>
-  p, h1, a {
-    color: yellow;
-  }
-</style>
 
 # Prioritäten | Evangelisieren
 
@@ -333,7 +325,7 @@ Jederzeit: <Tooltip text="sondern heiligt Christus, den Herrn, in euren Herzen. 
 <hr>
 
 - Fürsorge & Hirtendienst 🐑: <Tooltip text="Und am anderen Tag legten wir in Sidon an. Und Julius behandelte Paulus wohlwollend und erlaubte ihm, zu den Freunden zu gehen, um ihrer Fürsorge teilhaftig zu werden." href="https://www.csv-bibel.de/bibel/apostelgeschichte-27#v3">Apg 27,3</Tooltip>
-- Gemeinschaft 🫂: <Tooltip text="Sie verharrten aber in der Lehre der Apostel und in der Gemeinschaft, im Brechen des Brotes und in den Gebeten." href="https://www.csv-bibel.de/bibel/apostelgeschichte-2#v42">Apg 2,42</Tooltip>
+- Gemeinschaft 👬: <Tooltip text="Sie verharrten aber in der Lehre der Apostel und in der Gemeinschaft, im Brechen des Brotes und in den Gebeten." href="https://www.csv-bibel.de/bibel/apostelgeschichte-2#v42">Apg 2,42</Tooltip>
 - Erziehung & Vorbild: <Tooltip text="Und ihr Väter, reizt eure Kinder nicht zum Zorn, sondern zieht sie auf in der Zucht und Ermahnung des Herrn." href="https://www.csv-bibel.de/bibel/epheser-6#v4">Eph 6,4</Tooltip>
 und <Tooltip text="Seid zusammen meine Nachahmer, Brüder, und seht hin auf die, die so wandeln, wie ihr uns zum Vorbild habt." href="https://www.csv-bibel.de/bibel/philipper-3#v17">Phil 3,17</Tooltip>
 - <span v-mark.underline.red>Liebe ❤️‍🔥: </span><Tooltip text="Dies ist mein Gebot, dass ihr einander liebet, wie ich euch geliebt habe." href="https://www.csv-bibel.de/bibel/johannes-15#v12">Joh 15,12</Tooltip>
@@ -387,7 +379,6 @@ image: /images/adler.jpg
 # Let ~~them~~/him, let me | Weg von <span style="color: red;">hin zu</span>
 
 <hr>
-
 
 - sich selbst ändern
 - unberechtigte Sorgen: <Tooltip text="So seid nun nicht besorgt für den morgigen Tag, denn der morgige Tag wird für sich selbst sorgen. Jeder Tag hat an seinem Übel genug." href="https://www.csv-bibel.de/bibel/matthaeus-6#v34">Mt 6,34</Tooltip>
@@ -513,35 +504,26 @@ image: /images/slackline.jpg
 
 <br>
 
-<span style="color:yellow"><q>hinschauend auf Jesus.</q> <a href="https://www.csv-bibel.de/bibel/hebraeer-11#v2">Heb 12,2</a></span>
-
-
-
-
-
+<span style="color:yellow"><q>hinschauend auf Jesus.</q> <a href="https://www.csv-bibel.de/bibel/hebraeer-11#v2" target="_blank">Heb 12,2</a></span>
 
 
 ---
 layout: image-right
 image: /images/qrcode.svg
 backgroundSize: 90%
-class: sources
+class: take-home-slide
 ---
 
-<style>
-  p {
-    font-size: 0.4rem;
-    line-height: 1.75;
-    margin: 0.6rem 0;
-  }
-</style>
-
-# Nimm mit!
+# Käue wieder! 🐮 😉
 
 <hr>
 <br>
 
-### Quellen
+# Präsentation online ➡️
+
+<br>
+
+##### Quellen:
 
 Photo by [Becca Romine](https://unsplash.com/@brecca85?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) Romine on [Unsplash](https://unsplash.com/photos/faded-green-lights-digital-wallpaper-Lll4QeybDEg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 

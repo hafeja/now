@@ -5,3 +5,15 @@
 .smaller-text {
   font-size: 1.7rem;
 }
+
+.evangelise-slide p,
+.evangelise-slide h1,
+.evangelise-slide a {
+  color: yellow;
+}
+
+.take-home-slide p {
+  font-size: 0.4rem;
+  line-height: 1.75;
+  margin: 0.6rem 0;
+}
