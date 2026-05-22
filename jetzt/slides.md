@@ -188,7 +188,7 @@ level: 2
 transition: slide-up
 ---
 
-# 🗯️ Austausch # 1 <span style="float:right">⏱️ 10 m</span>
+# 🗯️ Austausch # 1 <span style="float:right">⏱️ 5 m</span>
 
 <hr>
 <br>
@@ -252,7 +252,7 @@ level: 2
 transition: slide-up
 ---
 
-# 🗯️ Austausch # 2 <span style="float:right">⏱️ 15 m</span>
+# 🗯️ Austausch # 2 <span style="float:right">⏱️ 10 m</span>
 
 <hr>
 
@@ -410,7 +410,7 @@ level: 2
 transition: slide-up
 ---
 
-# 🗯️ Austausch # 3 <span style="float:right">⏱️ 15 m</span>
+# 🗯️ Austausch # 3 <span style="float:right">⏱️ 10 m</span>
 
 <hr>
 <br>
